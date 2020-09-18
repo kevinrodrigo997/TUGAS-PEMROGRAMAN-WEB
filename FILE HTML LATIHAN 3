@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Form Update</title>
+    <link rel="stylesheet" href="style1.css">
+</head>
+<body>
+    <section>
+        <div>
+            <header class="header">
+                <div class="logo">
+                    <img  src="https://i.ibb.co/Jm2WqVx/Logo-Undiksha.png" width="150">
+                </div>
+                    <nav class="nav">
+                    <h1 align="middle">
+                      SISTEM INFORMASI
+                     </h1>
+                    <h1 align="middle">
+                        Universitas Pendidikan Ganesha
+                    </h1>
+                    <ul>
+                        <li><a href="#logout">LOG OUT</a></li>
+                    </ul>
+                    </nav>
+            </header>            
+        </div class="content">
+        <div class="wrapper">
+                <aside class="sidebar">
+                    <div style="padding: 10px;">
+                    <b>Menu</b><br>
+                    <hr>
+                    <a href="#">Home</a><br />
+                    <a href="Biodata Diri.html">Biodata</a><br />
+                    <a href="#">Update Biodata</a><br />
+                    <a href="#">Contact</a><br />
+                    </div>
+                </aside>
+          
+            <h1>Form Pengisian Minat Mahasiswa Teknik Informatika</h1>
+            <form>
+                <table>
+                    <tr>
+                        <td>Nama</td>
+                        <td>:</td>
+                        <td><input type="text" name="nama" value="" placeholder="Tulisakan Nama Anda" /></td>
+                    </tr>
+                    <tr>
+                        <td>Password</td>
+                        <td>:</td>
+                        <td> <input type="password" name="password" placeholder="Tulisakan Password Anda" /></td>
+                     </tr>
+                     <tr>
+                        <td>Jenis Kelamin</td>
+                        <td>:</td>
+                        <td><input type="radio" name="jenis_kelamin" value="laki-laki" checked /> Laki - Laki
+                            <input type="radio" name="jenis_kelamin" value="perempuan" /> Perempuan
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Minat</td>
+                        <td>:</td>
+                        <td><input type="checkbox" name="minat_tkj" /> Teknik Komputer dan Jaringan
+                            <input type="checkbox" name="hobi_rpl" /> Rekayasa Perangkat Lunak
+                            <input type="checkbox" name="hobi_multimedia" /> Multimedia
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Asal Kota</td>
+                        <td>:</td>
+                        <td> <select name="asal_kota">
+                                <option value="Kota Denpasar"> Denpasar</option>
+                                <option value="Kota Singaraja">Singaraja</option>
+                                <option value="Kota Tabanan" >Tabanan</option>
+                                <option value="Kota Negara" >Negara</option>
+                                <option value="Kota Bangli" >Bangli</option>
+                                <option value="Kota Gianyar" >Gianyar</option>
+                                <option value="Pilih Kota" selected>Pilih Kota</option>
+                            </select>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Alasan Memilih Minat</td>
+                        <td>:</td>
+                        <td><textarea name="Alasan" rows="5" cols="20"></textarea>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="3" align="right"><button type="submit">simpan</button></td>
+                        <td colspan="3" align="right"><button type="reset">reset</button>
+                        </td>
+                    </tr>
+                </table>
+            </form>
+        </div>
+    
+        </div>
+            <footer class="footer">
+                <font color="white">Copyright &#169; *****</white>
+            </footer>
+        </div>
+    </section>
+    </body>
+</html>    
