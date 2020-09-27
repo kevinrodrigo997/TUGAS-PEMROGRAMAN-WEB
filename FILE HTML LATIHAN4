@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>TUGAS</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+</head>
+
+<body>
+    <div class="wrap">
+        <header>
+            <div class="logo">
+                <img src="https://www.freelogoservices.com/api/main/images/1j+ojlxEOMkX9Wyqfhe43D6kifOIqRVInh7IwWJqZ04+jHEZ8D5U8uQ39...BFNGR09xRV2lVKJ8s8jiR6UIkRiBhm" width="100">
+            </div>
+            <div class="judul">
+                <h1 style="margin: 0px;">NGINEP.ID</h1>
+            </div>
+        </header>
+        <nav class="menu">
+            <ul>
+                <li>
+                    <a href="#">Home</a>
+                </li>
+                <li>
+                    <a href="#">Hotel</a>
+                </li>
+                <li>
+                    <a href="#">Motel</a>
+                </li>
+                <li>
+                    <a href="#">Villa</a>
+                </li>
+                <li>
+                    <a href="#">Home Stay</a>
+                </li>
+                <li>
+                    <a href="#">Contact Us</a>
+                </li>
+            </ul>
+        </nav>
+        
+        <aside class="sidebar">
+            <div class="widget">
+                <h2>Konten Terbaru</h2>
+                <ul class="menusidebar">
+                    <li><a href="">Hotel Terbaik di Bali</a></li>
+                    <li><a href="">Rekomendasi penginapan di Bali</a></li>
+                </ul>
+            </div>
+        </aside>
+        
+        <div class="blog">
+                
+            <div class="conteudo">
+                <img src="penginapan.jpg">
+                <h1> Rekomendasi Penginapan di Bali </h1>
+                <hr>
+                <div class="post-info">
+                    Di Posting Oleh <b>Admin</b>
+                </div>
+                <p align="justify">
+                    Salah satu hal krusial saat merencanakan untuk belibur ke luar kota maupun luar negeri adalah akomodasi. Dan jika anda memilih Pulau Bali sebagai tempat berlibur anda, maka saya telah membuat sebuah list rekomendasi penginapan saat anda berlibur ke Bali ! 
+                </p>
+                <p align="justify">
+                <b>1. Villa Pantai Karang</b> </br>
+                    Villa Pantai Karang ini terletak di Sanur, 80 meter dari Pantai Sanur. Hotel ini menawarkan akomodasi dengan kolam renang outdoor, parkir pribadi gratis, lounge bersama, dan taman. Akomodasi ini juga menyediakan layanan kamar dan teras dengan resepsionis 24 jam, antar-jemput bandara, dapur bersama, dan Wi-Fi gratis di seluruh areanya.
+                    Kamar-kamar di hotel ini memiliki area tempat duduk. Semua kamar di Villa Pantai Karang memiliki meja, TV layar datar, dan kamar mandi pribadi.</br>
+                <b>2. Eastin Ashta Resort Canggu</b></br>
+                merupakan sebuah tempat penginapan moden yang terletak hanya 6 menit berjalan kaki dari Pantai Echo.
+                     Ia mempunyai kolam renang dan pusat kecergasan. Tempat penginapan ini terletak tidak jauh dari tempat wisata yang lain seperti Pantai Batu Bolong dan Pantai Berawa. 
+                     Penginapan ini Juga Menyediakan WiFi Gratis yang menjangkau semua kawasan hotel ini, jadi anda tidak perlu khawatir dengan koneksi anda.
+                     Semua bilik di hotel ini menawarkan hiasan dalaman yang bergaya dengan unsur-unsur Bali. Ia dilengkapi dengan penghawa dingin, TV skrin rata dengan saluran satelit, peti keselamatan peribadi dan alat pembuat kopi/teh. Bilik mandi adalah peribadi serta dilengkapi dengan pancuran mandian dan tandas berasingan, jubah mandi, dan pengering rambut. Tuala bersih dan peralatan mandian percuma disediakan untuk kemudahan anda. Semua bilik mempunyai ruang duduk dengan meja.
+                     Tempat penginapan ini menawarkan sarapan kontinental atau bufet dengan waktu lanjutan. Terdapat restoran di lokasi yang menawarkan sajian sepanjang hari, yang menawarkan pelbagai hidangan Amerika dan Cina. Tetamu juga boleh menikmati minuman yang menyegarkan dan makanan ringan di Pool Bar.</br>
+                <b>3. Radisson Blu Bali Uluwatu</b></br>
+                    Radisson Blu Bali Uluwatu terletak di Uluwatu, 200 meter dari Pantai Bingin. Hotel ini menawarkan akomodasi dengan restoran, parkir pribadi gratis, kolam renang outdoor, dan tempat fitness lengkap. Akomodasi ini menawarkan bar serta taman, dan berjarak 250 meter dari Pantai Impossible serta 550 meter dari Pantai Cemongkak. Terdapat resepsionis 24 jam, transfer bandara, layanan kamar, dan Wi-Fi gratis di seluruh areanya.
+                    Anda dapat menikmati sarapan prasmanan atau sarapan lengkap ala Inggris/Irlandia di hotel ini.
+                    Radisson Blu Bali Uluwatu menawarkan teras.
+                    Akomodasi ini berjarak 6 km dari Pura Uluwatu dan 3,1 km dari El Kabron Bali.</br>
+                <b>4. Amnaya Resort Kuta</b></br>
+                    Amnaya Resort Kuta menyediakan tempat penginapan yang selesa dengan WiFi percuma di dalam bilik di Kuta. Ia menawarkan sebuah restoran à la carte. Resort ini mempunyai sebuah kolam renang luaran, pusat kecergasan dan taman yang harum.         
+                    Setiap bilik di Amnaya Resort Kuta menampilkan gaya desa namun moden, dan berhawa dingin. Semua bilik dilengkapi dengan ruang duduk yang selesa, TV skrin rata dengan saluran kabel Inggeris dan Mandarin, peti keselamatan dan bar mini. Beberapa unit juga termasuk tab mandi dan mesin kopi. Bilik mandi peribadi menawarkan peralatan mandian percuma, pengering rambut, dan selipar.
+                    Amnaya Resort Kuta menawarkan sebuah lounge berkongsi dan perpustakaan. Kaunter penerimaan tetamu yang dibuka 24 jam menyediakan maklumat yang berguna untuk meneroka kawasan sekitar.
+                    Anda boleh meminta sarapan harian dan menikmati hidangan teh petang setiap hari di Sukun Restaurant. Rawatan urut di Bhava Spa dan kemudahan barbeku disediakan dengan bayaran tambahan. Perkhidmatan pengemasan juga disediakan
+                    Hotel ini terletak 100 meter dari Waterbom Bali, 100 meter dari Pusat Beli-belah Discovery, dan 300 meter dari Pusat Bandar Kuta. Lapangan Terbang Antarabangsa Bali Denpasar berada sejauh 2 km. Shuttle lapangan terbang juga boleh diatur dengan bayaran tambahan. Amnaya Resort Kuta menawarkan parking percuma.</br>
+                </p>
+            </div>
+        </div>
+        
+        <div class="footer" align="center">
+            <a href="#">kevin.rodrigo@undiksha.ac.id</a>
+        </div>
+    </div>
+</body>
+</html>
